@@ -1,5 +1,5 @@
 <a href="https://github.com/moghasha-malan">
-  <img align="right" src="https://komarev.com/ghpvc/?username=moghasha&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="./profile.png" alt="Profile visitor" />
 </a>
 
 <div align="center">
