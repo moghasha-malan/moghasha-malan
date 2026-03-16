@@ -25,7 +25,7 @@
             <img src="https://cdn-icons-png.flaticon.com/512/126/126509.png" width="20" height="20"> +91-9355045745
         </a>
         <br>
-        📍 Gurugram, Haryana | 「 Full-Stack Developer specializing in .NET & React 」
+        📍 Gurugram, Haryana | 「 Full-Stack Developer specializing in .NET & React Js
         <br>
     </samp>
 </p>
