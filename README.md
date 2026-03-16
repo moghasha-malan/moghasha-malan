@@ -1,9 +1,8 @@
 <a href="https://github.com/moghasha-malan">
-  <img align="right" src="./profile.png" alt="Profile visitor" />
 </a>
 
 <div align="center">
-    <a href="https://github.com/moghasha"><img src="mypro2.png" height="300" alt="Moghasha's Profile" /></a>
+    <a href="https://github.com/moghasha"><img src="./profile.png" height="300" alt="Moghasha's Profile" /></a>
 </div>
 
 <div align="center">
